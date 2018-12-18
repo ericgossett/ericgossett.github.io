@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-969f48bd2208d34560f5.js",
-      "component---src-pages-index-js-969f48bd2208d34560f5.js.map"
+      "component---src-pages-index-js-946bc5da925f886a338f.js",
+      "component---src-pages-index-js-946bc5da925f886a338f.js.map"
     ],
     "component---src-templates-project-page-js": [
       "component---src-templates-project-page-js-c52adc308f37f37ce8e5.js",
@@ -25,20 +25,20 @@
       "path---ml-api-ce8e42e249c0ecb436ec.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-bc6032b316777e5ea0dd.js",
-      "component---src-layouts-index-js-bc6032b316777e5ea0dd.js.map"
+      "component---src-layouts-index-js-7b1e6cd90c5ab4df5c06.js",
+      "component---src-layouts-index-js-7b1e6cd90c5ab4df5c06.js.map"
     ],
     "path---tf-boilerplate": [
-      "path---tf-boilerplate-7d085f252dcb323e9955.js",
-      "path---tf-boilerplate-7d085f252dcb323e9955.js.map"
+      "path---tf-boilerplate-c45a4220ba8acc9f02d0.js",
+      "path---tf-boilerplate-c45a4220ba8acc9f02d0.js.map"
     ],
     "path---materails-ml-app": [
       "path---materails-ml-app-9dac975acac2d2a86493.js",
       "path---materails-ml-app-9dac975acac2d2a86493.js.map"
     ],
     "path---index": [
-      "path---index-6bed12ecbbfb40fd8b83.js",
-      "path---index-6bed12ecbbfb40fd8b83.js.map"
+      "path---index-5f266489531f6741d107.js",
+      "path---index-5f266489531f6741d107.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -55,30 +55,30 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---ngdex": [
-      "path---ngdex-c1f6e00aabd3e875fd72.js",
-      "path---ngdex-c1f6e00aabd3e875fd72.js.map"
+      "path---ngdex-1f2ddf5e170c9507d8cc.js",
+      "path---ngdex-1f2ddf5e170c9507d8cc.js.map"
     ],
     "path---materails-atlas-project": [
       "path---materails-atlas-project-89e5bade98966b25cbd2.js",
       "path---materails-atlas-project-89e5bade98966b25cbd2.js.map"
     ],
     "app": [
-      "app-621c3f58673676960dc5.js",
+      "app-be9188bd9b4f1d2155b1.js",
       "build-js-styles.css",
-      "app-621c3f58673676960dc5.js.map",
+      "app-be9188bd9b4f1d2155b1.js.map",
       "build-js-styles.css.map"
     ],
     "path---mern-boilerplate": [
-      "path---mern-boilerplate-dda9e9637b568628ce63.js",
-      "path---mern-boilerplate-dda9e9637b568628ce63.js.map"
+      "path---mern-boilerplate-eb66ce6ffb256c47fce6.js",
+      "path---mern-boilerplate-eb66ce6ffb256c47fce6.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---digital-graffiti": [
-      "path---digital-graffiti-e287a52b18bb7375dcde.js",
-      "path---digital-graffiti-e287a52b18bb7375dcde.js.map"
+      "path---digital-graffiti-531e89ee7dd2293c1019.js",
+      "path---digital-graffiti-531e89ee7dd2293c1019.js.map"
     ]
   }
 }
