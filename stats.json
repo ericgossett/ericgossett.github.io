@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-946bc5da925f886a338f.js",
-      "component---src-pages-index-js-946bc5da925f886a338f.js.map"
+      "component---src-pages-index-js-58d7698f603c3ef82d55.js",
+      "component---src-pages-index-js-58d7698f603c3ef82d55.js.map"
     ],
     "component---src-templates-project-page-js": [
-      "component---src-templates-project-page-js-c52adc308f37f37ce8e5.js",
-      "component---src-templates-project-page-js-c52adc308f37f37ce8e5.js.map"
+      "component---src-templates-project-page-js-c391599eada3426ac091.js",
+      "component---src-templates-project-page-js-c391599eada3426ac091.js.map"
     ],
     "path---": [
       "path----9822740be8bd48004e16.js",
@@ -25,8 +25,8 @@
       "path---ml-api-ce8e42e249c0ecb436ec.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-7b1e6cd90c5ab4df5c06.js",
-      "component---src-layouts-index-js-7b1e6cd90c5ab4df5c06.js.map"
+      "component---src-layouts-index-js-3ef8ab9a449c73fd4e1a.js",
+      "component---src-layouts-index-js-3ef8ab9a449c73fd4e1a.js.map"
     ],
     "path---tf-boilerplate": [
       "path---tf-boilerplate-c45a4220ba8acc9f02d0.js",
@@ -37,8 +37,8 @@
       "path---materails-ml-app-9dac975acac2d2a86493.js.map"
     ],
     "path---index": [
-      "path---index-5f266489531f6741d107.js",
-      "path---index-5f266489531f6741d107.js.map"
+      "path---index-6f4ac5ca943dc1936044.js",
+      "path---index-6f4ac5ca943dc1936044.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -63,9 +63,9 @@
       "path---materails-atlas-project-89e5bade98966b25cbd2.js.map"
     ],
     "app": [
-      "app-be9188bd9b4f1d2155b1.js",
+      "app-03bf8c1ef8ee9789dabc.js",
       "build-js-styles.css",
-      "app-be9188bd9b4f1d2155b1.js.map",
+      "app-03bf8c1ef8ee9789dabc.js.map",
       "build-js-styles.css.map"
     ],
     "path---mern-boilerplate": [
