@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"4IYq":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),c=(a("Wbzz"),a("wtQ5")),i=(a("7YIH"),a("ZO1O"),a("RaJb")),r=(a("pWS7"),a("wUPw")),u=a("Zttt");a("qBNv"),a("EDuE");t.default=function(){return l.a.createElement(u.a,null,l.a.createElement(c.a,{title:"Publications"}),l.a.createElement(i.a,{text:"Publications",color:"#5AF78E"}),l.a.createElement("div",{style:{padding:"30px 0px"}},l.a.createElement(r.a,null)))}}}]);
+//# sourceMappingURL=component---src-pages-publications-js-f14c8146c735ee63f355.js.map
