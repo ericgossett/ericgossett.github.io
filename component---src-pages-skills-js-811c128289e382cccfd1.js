@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{VfgA:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),c=(a("Wbzz"),a("wtQ5")),r=(a("7YIH"),a("ZO1O"),a("RaJb")),u=a("pWS7"),w=(a("wUPw"),a("Zttt"));a("qBNv"),a("EDuE");t.default=function(){return l.a.createElement(w.a,null,l.a.createElement(c.a,null),l.a.createElement(r.a,{text:"Skills",color:"#5AF78E"}),l.a.createElement(u.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-skills-js-811c128289e382cccfd1.js.map
