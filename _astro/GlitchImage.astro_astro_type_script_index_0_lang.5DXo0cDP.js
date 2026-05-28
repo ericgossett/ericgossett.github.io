@@ -1,0 +1,1 @@
+import{R as t}from"./index.esm.BDVpw-gZ.js";t.glitch(".glitch",{playMode:"always",hideOverflow:!0,timing:{duration:1e4,iterations:1/0},glitchTimeSpan:{start:.2,end:.3},shake:{velocity:10,amplitudeX:.4,amplitudeY:0},slice:{count:8,velocity:10,minHeight:.02,maxHeight:.4,hueRotate:!0}});
