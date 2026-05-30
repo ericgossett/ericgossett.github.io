@@ -173,7 +173,7 @@
     U+2215, U+FEFF, U+FFFD;
 }
 .sidebar-bg[data-astro-cid-zxwo2jvv] {
-  background-color: #141323;
+  background-color: var(--color-bg);
   background: linear-gradient(176deg, #14132399, #2e275499);
 }
 .sidebar-font[data-astro-cid-zxwo2jvv] {
