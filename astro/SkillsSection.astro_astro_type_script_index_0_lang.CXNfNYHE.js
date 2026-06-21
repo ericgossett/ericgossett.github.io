@@ -1,1 +1,0 @@
-import{M as n}from"./masonry.Bk6C2mAH.js";function r(){new n("#masonry-grid",{itemSelector:"#masonry-grid > div",columnWidth:"#masonry-grid > div",percentPosition:!0,gutter:24})}r();document.addEventListener("astro:page-load",r);

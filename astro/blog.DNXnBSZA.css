@@ -181,6 +181,74 @@
     Kode Mono Variable,
     monospace;
 }
+.bg-layer[data-astro-cid-k6rkl6ib] {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+}
+.content[data-astro-cid-k6rkl6ib] {
+  position: relative;
+  z-index: 2;
+}
+.navbar[data-astro-cid-k6rkl6ib] {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.9rem 1.5rem;
+  color: #eef0ff;
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    sans-serif;
+  background: #0e0c1e8c;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+.brand[data-astro-cid-k6rkl6ib] {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+#loading-screen[data-astro-cid-k6rkl6ib] {
+  position: fixed;
+  inset: 0;
+  z-index: 12;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(
+    ellipse at 60% 50%,
+    #3e2b70,
+    #2a1d4e 40%,
+    #18142e
+  );
+  transition:
+    opacity 0.5s ease,
+    visibility 0.5s ease;
+}
+#loading-screen[data-astro-cid-k6rkl6ib].hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+.spinner[data-astro-cid-k6rkl6ib] {
+  width: 48px;
+  height: 48px;
+  border: 3px solid rgba(255, 255, 255, 0.1);
+  border-top-color: #6244b2d9;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
 @keyframes astroFadeInOut {
   0% {
     opacity: 1;
